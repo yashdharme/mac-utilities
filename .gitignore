@@ -1,0 +1,5 @@
+.DS_Store
+.build/
+.swiftpm/
+MacSpeed.app/
+MacClip.app/
